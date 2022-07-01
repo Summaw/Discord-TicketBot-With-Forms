@@ -1,0 +1,19 @@
+{
+    "name": "ticket-bot",
+    "version": "1.0.0",
+    "description": "a ticket bot using forms",
+    "main": "index.js",
+    "scripts": {
+        "test": "echo \"Error: no test specified\" && exit 1"
+    },
+    "keywords": [
+        "ticket",
+        "bot"
+    ],
+    "author": "ImNotSummer",
+    "license": "ISC",
+    "dependencies": {
+        "discord.js": "^13.7.0",
+        "mongoose": "^6.4.0"
+    }
+}
